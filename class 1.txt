@@ -1,0 +1,63 @@
+#print("hello world")
+#print("hello")
+#print(67)
+
+#print("hello world") #str
+#print(78) #int
+#print(78.8) #float
+#print(True) #bool
+
+
+#print("hello's world")
+#print('hello"s world')
+#print("""
+#      hgdsf"fsd"F'sdf'ds'fl;dsfkdsf/f.;fsdzufofdsjf
+#      """)
+
+
+#name = "aman"
+#age = 67
+#marks = 78.5
+#result = True
+
+#print(name)
+#print(age)
+#print(marks)
+#print(result)
+
+#print(Name)
+#print(hello)
+#print(True)
+#print(True)
+
+
+#a=10
+#print(a)
+
+#a=20
+#print(a)
+
+
+#a=20
+#print(a)
+
+
+#a=20
+#b=a
+#c=b
+#print(c)
+
+
+name = "ajay"
+age = 67
+marks = 78.5
+result = True
+
+
+print("hello my name is",name,"and my age is",age)
+print(f"hello my name is {name} and my age is {age}")
+
+#print("hello")
+#print(name)
+
+#print("hello",name,age,marks,result)
